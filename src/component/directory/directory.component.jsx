@@ -3,22 +3,22 @@ const Directory = () => {
   const categories = [
     {
       id: 1,
-      title: "hats",
+      title: "Hats",
       imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
     },
     {
       id: 2,
-      title: "jackets",
+      title: "Jackets",
       imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
     },
     {
       id: 3,
-      title: "sneakers",
+      title: "Sneakers",
       imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
     },
     {
       id: 4,
-      title: "womens",
+      title: "Womens",
       imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
     },
     {
